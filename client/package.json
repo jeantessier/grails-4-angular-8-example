@@ -22,7 +22,7 @@
     "@ng-bootstrap/ng-bootstrap": "4.0.1",
     "bootstrap": "^4.4.1",
     "core-js": "^2.5.4",
-    "rxjs": "~6.5.3",
+    "rxjs": "~6.5.5",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
